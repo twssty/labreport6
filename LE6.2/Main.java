@@ -13,7 +13,7 @@ class Main {
             if(record == null) break;
 
             
-            System.out.println(record.getName());
+            record.writeOutput();
         }
     }
 }

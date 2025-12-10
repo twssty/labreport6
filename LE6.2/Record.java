@@ -28,9 +28,7 @@ class Record extends Person {
     
     public String getSpecialty() { return this.specialty; }
 
-    public String getName() { 
-        return super.getName(); 
-    }
+    public String getName() {  return super.getName(); }
 
     // FUNCTION 
 
